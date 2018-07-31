@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homeId"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/carCategoryId"
+            android:icon="@drawable/car"
+            android:title="@string/car" />
+        <item
+            android:id="@+id/gunCategoryId"
+            android:icon="@drawable/gun"
+            android:title="@string/gun" />
+        <item
+            android:id="@+id/guitarCategoryId"
+            android:icon="@drawable/rock_music"
+            android:title="@string/guitar" />
+        <item
+            android:id="@+id/pleasureCategoryId"
+            android:icon="@drawable/pleasure"
+            android:title="@string/pleasure" />
+    </group>
+
+    <item android:title="@string/favorites">
+        <menu>
+            <item
+                android:id="@+id/menuFavoriteId"
+                android:icon="@drawable/heart_red"
+                android:title="@string/like" />
+            <item
+                android:id="@+id/menuBasketId"
+                android:icon="@drawable/basket_red"
+                android:title="@string/basket" />
+        </menu>
+    </item>
+
+</menu>

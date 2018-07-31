@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">DreamShop</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="price_5000">Price 5000$</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fake_it_till_you_make_it">Fake it till you make it</string>
+    <string name="dream_shop">Dream Shop</string>
+    <string name="home">Home</string>
+    <string name="car">Car</string>
+    <string name="gun">Gun</string>
+    <string name="guitar">Guitar</string>
+    <string name="pleasure">Pleasure</string>
+    <string name="favorites">Favorites</string>
+    <string name="like">Like</string>
+    <string name="basket">Basket</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string-array name="dodgeList">
+        <item>https://i.pinimg.com/originals/5b/58/0a/5b580a6bc12835dd769dae4f6f593dd5.jpg</item>
+        <item>http://classiccardb.com/uploads/postfotos/1970-dodge-challenger-426ci-hemi-4-speed-transmission-rt-shaker-hood-2.jpg</item>
+        <item>https://cs4.pikabu.ru/post_img/big/2015/10/15/8/1444916682_1296174821.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB8M7l0FIjdONBxbIA7yL8-CcduXdltPZoRklQb2mxijDdhiuT</item>
+        <item>https://images.fineartamerica.com/images-medium-large-5/1970-dodge-challenger-rt-thomas-schoeller.jpg</item>
+
+    </string-array>
+    <string-array name="bmwList">
+        <item>https://pvlimages.blob.core.windows.net/images/verylarge/5J90008_14062017_1.jpg</item>
+        <item>http://carrrsmag.com/data_images/models/bmw-m3/bmw-m3-06.jpg</item>
+        <item>https://banner2.kisspng.com/20180206/hpe/kisspng-2017-bmw-m3-2018-bmw-m3-car-bmw-x6-bmw-m3-png-clipart-5a7a261aaefbe3.1774445215179545867167.jpg</item>
+        <item>https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/bmwm3-single-page-1_0.jpg?itok=yxQAdx2z</item>
+        <item>http://www.racecar-engineering.com/wp-content/uploads/2011/03/upbim.jpg</item>
+        <item>http://www.topgearautosport.com/img/350/1467071616694701705.jpg</item>
+        <item>https://cdn.bmwblog.com/wp-content/uploads/2015/03/Black-Sapphire-BMW-F80-M3-Gets-More-Power-At-European-Auto-Source-7.jpg</item>
+    </string-array>
+
+    <string-array name="lamboList">
+        <item>https://www.lamborghinilongisland.com/galleria_images/2045/2045_main_f.jpg</item>
+        <item>https://robbreportedit.files.wordpress.com/2018/01/0_2018-lamborghini-huracan-performante.jpg?w=1024</item>
+        <item>https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC60LGC053A01300.jpg</item>
+        <item>http://www.a777aa77.ru/lamborghini-2/2018-lamborghini-huracan-super-trofeo-evo.jpg</item>
+        <item>https://www.dpccars.com/blog/wp-content/uploads/2017/11/2018-Lamborghini-Huracan-Performante-Quarter-Mile-Run-2-700x325.png</item>
+        <item>https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC50LGC051A01300.jpg</item>
+    </string-array>
+    <string-array name="svdList">
+        <item>https://3dexport.com/items/2009/03/16/14555/67230/dragunov_svd_sniper_rifle_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_1526658_o.jpg</item>
+        <item>https://russianlegacy.com/images/soviet_collection/posters/PST005.jpg</item>
+        <item>http://2.bp.blogspot.com/-6jJr-hVfFoM/VLGYbAwVTlI/AAAAAAAAADY/THP5rQFMI4A/s1600/IMG_7612.jpg</item>
+        <item>https://pictures.gunauction.com/573/14474199/20170723112115-8887.jpg</item>
+        <item>http://blog.roninsgrips.com/wp-content/uploads/2017/06/RANGE-TIME-SVD-Dragunov-VS-VEPR_3.jpg");</item>
+    </string-array>
+    <string-array name="magnumList">
+        <item>https://img1.goodfon.ru/wallpaper/big/0/37/smith-wesson-model-500-500-s.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXg2v_wOZiAh0DnmZw7e8yhLeJuFFFNIN3FIKmJ_jH2fM-dVmGzg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAN5g3Jhx_MWaEAa4LFq1ueHJfrnxaNnlt9D4EmrrRCjO6JiwHA</item>
+        <item>http://paperlief.com/images/500-magnum-gun-wallpaper-2.jpg</item>
+        <item>https://i.redd.it/ky99ewr9e5511.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm66WPS_gZhmMuBPlTsjCWZGa5hBSUh4YNWt6gYTkacQo4zsF</item>
+    </string-array>
+    <string-array name="t9List">
+        <item>https://s3.amazonaws.com/mgm-content/sites/armslist/uploads/posts/2012/02/23/314376_03_kahr_t9_novak_stainless_9mm_640.jpg</item>
+        <item>https://www.northwestfirearms.com/attachments/0227152053a-jpg.269640/</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJvaEHRQJIh9BJCyMNxAYZ-gMMXqx6SRNmi0D9t31CqvzIYI7vuQ</item>
+        <item>https://www.tara-aerospace.com/images/products/TM-9.jpg</item>
+        <item>https://www.defensivecarry.com/forum/attachments/defensive-carry-guns/66466d1357694870-kahr-choice-photo-8-.jpg</item>
+    </string-array>
+    <string-array name="ak74List">
+        <item>https://i.pinimg.com/originals/32/7a/93/327a93b99f82e89f42b21bdb38e5f698.jpg</item>
+        <item>https://wallpapertag.com/wallpaper/full/2/e/1/918821-download-cool-gun-backgrounds-1920x1200-for-samsung.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjmZauzDJynN1U69rHX9BFKjTbZpIt98BPd9xEp3GZpwiFihNz</item>
+        <item>https://vignette.wikia.nocookie.net/residentevil/images/1/17/RE5AK74.jpg/revision/latest?cb=20100522071453</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/fa/Ak74l.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQvjL62jrrC9snrCC4T3fUEnHSZt7SfmdF1qmYLYtHADx-u2Z3uA</item>
+        <item>https://c1.staticflickr.com/3/2663/4151012809_0320330819_z.jpg?zz=1</item>
+    </string-array>
+    <string-array name="fenderList">
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXOVkTM1gkrUiz0nv7o0NTlCy71npmb2w0fTHGNqBjPkuLKEwn1g</item>
+        <item>http://www.theguitarmagazine.com/wp-content/uploads/2017/10/Guitar-Bass-28_10-1.jpg</item>
+        <item>https://www.keymusic.com/contentassets/e00eb2e03ca74f40a34f16d1cfbde3de/fender-stratocaster700.jpg</item>
+        <item>http://cdn1.bigcommerce.com/n-ou1isn/ejpbfe/products/2373/images/7587/Fender-Custom-63-NOS-Strat-3TB-2__79055.1392064201.480.330.jpg?c=2</item>
+        <item>http://www.rockhub.it/wp-content/uploads/2016/03/12803114_1308484665835759_5760735856760244411_n.jpg</item>
+        <item>http://rock-shckola.ru/wp-content/uploads/2014/08/111113.jpg</item>
+        <item>https://www.billboard.com/files/styles/article_main_image/public/media/fender-la-2018-billboard-1548.jpg</item>
+    </string-array>
+    <string-array name="gibsonList">
+        <item>http://guitar-amp.ru/images/gibson-les-paul-classic-heritage-cherry-1991-vintage-08.jpg</item>
+        <item>https://www.youredm.com/wp-content/uploads/2018/05/gibson-guitar-promo.jpg</item>
+        <item>https://ae01.alicdn.com/kf/HTB13rbbQXXXXXboXFXXq6xXFXXXB/CHARMHOME-Custom-Gibson-Les-Paul-Guitar-Doormat-Bedroom-Decor-Gibson-Guitar-Cushion-Pad-Funny-Rugs.jpg_640x640.jpg</item>
+        <item>http://news.images.itv.com/image/file/1478965/stream_img.jpg</item>
+        <item>https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/44427/SITours/memphis-gibson-guitar-factory-tour-in-memphis-397969.jpg</item>
+        <item>https://static.spin.com/files/2018/02/Screen-Shot-2018-02-20-at-2.48.07-PM-1519156144-640x405.png</item>
+        <item>https://i.ytimg.com/vi/YndMXwN8sgs/hqdefault.jpg</item>
+    </string-array>
+    <string-array name="yamahaList">
+        <item>https://jam.ua/files/images/items/fg800-bs-promo-yamaha.jpg</item>
+        <item>https://pop-music.ru/upload/iblock/0e0/0e0de22a46e6dec442c635634e4a6f6b.jpg</item>
+        <item>https://srorg-soundreview.netdna-ssl.com/wp-content/uploads/2013/09/best-acoustic-guitar-Yamaha-CPX1200II-3.jpg</item>
+        <item>http://i.muztorg.ua/goods/1119/1119870.jpg</item>
+        <item>http://struna.by/upload/iblock/fbc/akusticheskaya_gitara_yamaha_f310_1.jpg</item>
+        <item>https://tvoyamelodya.ru/wa-data/public/site/data/w160712-626.host.webasyst.com/dop_img/arm999009094_121205190132.jpg</item>
+    </string-array>
+    <string-array name="ibanezList">
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/41/Ibanez_TCY20EVV_Talman_Acoustic-Electric_Guitar_%28Vintage_Violin_finish%29.jpg</item>
+        <item>https://cdn.shopify.com/s/files/1/2098/2901/products/IMG_1785_530x@2x.jpg?v=1497476661</item>
+        <item>https://smhttp-ssl-69079.nexcesscdn.net/media/catalog/product/1/0/10040250.jpg</item>
+        <item>https://s-media-cache-ak0.pinimg.com/originals/19/c7/86/19c786d4cbe42f7a3822424eba642d49.jpg</item>
+        <item>http://theguitaroutlet.com/wp-content/uploads/2015/10/background-ibanez-acoustic-guitar-2.jpg</item>
+        <item>http://www.thegearjunkie.co.za/uploads/2/4/9/9/24997093/ovation-1717_orig.jpg</item>
+    </string-array>
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="search">search</string>
+    <string name="dodge">Dodge Challenger 1970</string>
+    <string name="bmw">BMW M3 2017</string>
+    <string name="lambo">Lamborghini Huracan</string>
+    <string name="svd">Dragunov SVD</string>
+    <string name="magnum">Magnum 500 Revolver</string>
+    <string name="t9">Kahr T9 Pistol</string>
+    <string name="ak74">AK 74</string>
+    <string name="fender">Fender Stratocaster</string>
+    <string name="gibson">Gibson electric</string>
+    <string name="yamaha">YAMAHA acoustic</string>
+    <string name="ibanez">Ibanez acoustic</string>
+    <string name="videoUrl">http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</string>
+    <string name="price55000">55.000 $</string>
+    <string name="price30">30.000 $</string>
+    <string name="price100">100.000 $</string>
+    <string name="price10">10000 $</string>
+    <string name="pr5">5.000 $</string>
+    <string name="pr10">10000 $</string>
+    <string name="pr55">5.500 $</string>
+    <string name="pr48">4.800 $</string>
+    <string name="pr35">3.500 $</string>
+    <string name="pr44">4.400 $</string>
+</resources>
